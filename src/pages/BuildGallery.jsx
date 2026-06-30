@@ -1,12 +1,12 @@
 function BuildGallery() {
   const projects = [
     {
-      title: "AI-Based Fraud Detection System",
+      title: "Nalam — Bilingual AI-Powered Telehealth Platform",
       description:
-        "A machine learning-powered fraud detection platform using Random Forest and Streamlit with Smart Freeze security protocol for instant risk mitigation.",
+        "Designed and developed an AI-powered healthcare platform featuring multilingual support, role-based dashboards, and telehealth services.",
       github:
-        "https://github.com/sahanashree-26/smart-freeze-fraud-detection.git",
-      demo: "#",
+        "#",
+      demo: "https://nalam-healthcare-platform-ixjo.vercel.app/login",
     },
 
     {
